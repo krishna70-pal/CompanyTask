@@ -1,0 +1,4 @@
+/* Shared styles for Add/Edit form pages */
+.page-container .page-subtitle strong {
+  color: var(--accent-primary);
+}
